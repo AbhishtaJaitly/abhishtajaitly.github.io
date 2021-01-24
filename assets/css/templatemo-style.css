@@ -126,7 +126,7 @@ html {
 .main-nav li:hover a,
 .main-nav li.active a {
     background: #fff;
-    color: #8c363e;
+    color: #0e98bb;
 }
 
 /* Sidebar Menu */
@@ -435,11 +435,11 @@ button:hover {
 }
 
 .service-item .first-service-icon {
-    background-image: url(../images/code-white-icon.png);
+    background-image: url(../images/code1.png);
 }
 
 .service-item:hover .first-service-icon {
-    background-image: url(../images/code.png);
+    background-image: url(../images/code2.png);
 }
 
 .service-item .second-service-icon {
@@ -451,7 +451,7 @@ button:hover {
 }
 
 .service-item .third-service-icon {
-    background-image: url(../images/photo1.png);
+    background-image: url(../images/photo3.png);
 }
 
 .service-item:hover .third-service-icon {
